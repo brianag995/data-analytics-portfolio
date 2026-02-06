@@ -12,7 +12,5 @@ Interested in using data to improve patient experience
 - R
 
 ## Projects
-### Impact of Lifestyle on Mood Analysis
--Tools: SQL, Python, Tableau
--Goal: Identify the impact of screentime, exercise minutes, and social hours on working individuals' mood score
--[View Project] 
+### Patient Engagement and Outcomes
+
